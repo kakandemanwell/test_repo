@@ -15,6 +15,12 @@ const Navbar = () => {
     <nav className="bg-white shadow-md py-4 sticky top-0 z-50">
       <div className="container mx-auto px-4 flex justify-between items-center">
         <Link to="/" className="flex items-center">
+        <img 
+                src="ChatGPT Image Apr 15, 2025, 02_53_38 PM.png" 
+                alt="Basic car wash" 
+                className="w-20 h-20" // Adjusted size to 40x40 pixels
+                sizes='40px'
+              />
           <span className="font-bold text-2xl text-brand-blue">KLIN<span className="text-brand-green">RIDE</span></span>
         </Link>
 

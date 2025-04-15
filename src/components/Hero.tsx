@@ -8,11 +8,17 @@ const Hero = () => {
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
   
   const backgroundImages = [
-    "https://images.unsplash.com/photo-1605723517503-3cadb5818a0c?auto=format&fit=crop&q=80&w=2069",
-    "truman-tyoden-6Rc8rQNJ5iY-unsplash-1-1024x597.jpg",
-    "home.jpg",
+    // "https://images.unsplash.com/photo-1605723517503-3cadb5818a0c?auto=format&fit=crop&q=80&w=2069",
+    // "truman-tyoden-6Rc8rQNJ5iY-unsplash-1-1024x597.jpg",
+    // "home.jpg",
+    // "car-seat-upholstery-cleaning-washing-d.webp",
+    // "carafter.jpg"
+    "car2.avif",
+    "car1.avif",
+    "img1.png",
+    "home.png",
     "car-seat-upholstery-cleaning-washing-d.webp",
-    "carafter.jpg"
+    "carafter1.png"
   ];
 
   useEffect(() => {

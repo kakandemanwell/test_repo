@@ -16,12 +16,12 @@ const Navbar = () => {
       <div className="container mx-auto px-4 flex justify-between items-center">
         <Link to="/" className="flex items-center">
         <img 
-                src="ChatGPT Image Apr 15, 2025, 02_53_38 PM.png" 
+                src="ChatGPT Image Apr 15, 2025, 03_08_36 PM.png" 
                 alt="Basic car wash" 
-                className="w-20 h-20" // Adjusted size to 40x40 pixels
-                sizes='40px'
+                // className="w-10 h-10"
+                style={{width: '120px', height: '120px'}}
               />
-          <span className="font-bold text-2xl text-brand-blue">KLIN<span className="text-brand-green">RIDE</span></span>
+          {/* <span className="font-bold text-2xl text-brand-blue">KLIN<span className="text-brand-green">RIDE</span></span> */}
         </Link>
 
         {/* Desktop Menu */}

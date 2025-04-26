@@ -62,6 +62,7 @@ const Footer = () => {
                 <div>
                   <p className="text-gray-300">+256 776 041 056</p>
                   <p className="text-gray-300">+256 704 818 826</p>
+                  <p className="text-gray-300">+256 752 415 762</p>
                 </div>
               </li>
               <li className="flex items-start">

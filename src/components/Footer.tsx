@@ -67,7 +67,7 @@ const Footer = () => {
               </li>
               <li className="flex items-start">
                 <Mail size={18} className="mr-2 mt-1 text-brand-blue" />
-                <p className="text-gray-300">klinride25@gmail.com</p>
+                <p className="text-gray-300">klinrideug@gmail.com</p>
               </li>
               <li className="flex items-start">
                 <MapPin size={18} className="mr-2 mt-1 text-brand-blue" />

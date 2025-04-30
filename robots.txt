@@ -1,0 +1,11 @@
+# Robots.txt file for Klin Ride
+
+User-agent: *
+Allow: /
+
+# Disallow admin or private areas if needed
+# Disallow: /admin/
+# Disallow: /private/
+
+# Add your sitemap location when it's created
+Sitemap: https://klinride.com/sitemap.xml
